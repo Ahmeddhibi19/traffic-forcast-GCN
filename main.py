@@ -1,4 +1,3 @@
-# Author 2023 Thomas Fink
 
 import os
 from datetime import datetime
