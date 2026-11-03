@@ -1,4 +1,3 @@
-# Author 2023 Thomas Fink
 
 import torch
 import torch.nn as nn
